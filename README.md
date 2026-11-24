@@ -6,10 +6,10 @@ EE Student @ **Science Tokyo** | Semiconductor Lasers & Photonics
 
 ### ⚡️ About Me
 - 🔎 **Name**: 飯塚思温 / Shion IITSUKA
-- 🎓 **University**: Institute of Science Tokyo, Department of Electrical and Electronic Engineering.
+- 🎓 **University**: Institute of Science Tokyo, EEE.
 - 🔬 **Research**: Semiconductor Lasers
 - 🎸 **Hobby**: Bass
-- 
+
 #### 💻 Programming & Web (Learning)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
